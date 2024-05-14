@@ -1,10 +1,10 @@
-## 上机作业2
-### 陈思媛 软件2201 20222241337
+# 上机作业2
+## 陈思媛 软件2201 20222241337
 
-![nosync]("C:\Users\35747\Desktop\操作系统上机2\nosync（2）.png" "nosync")  
+![nosync]( https://github.com/CcSsYy77/ccssyy/blob/main/nosync%EF%BC%882%EF%BC%89.png "nosync")  
 ![mutex](https://github.com/CcSsYy77/ccssyy/blob/main/mutex%EF%BC%882%EF%BC%89.png "mutex")  
-![sem]("C:\Users\35747\Desktop\操作系统上机2\sem(1).png" "sem")  
-![ccssyy]("C:\Users\35747\Desktop\操作系统上机2\ccssyy(1).png" "ccssyy")
+![sem](https://github.com/CcSsYy77/ccssyy/blob/main/sem(1).png "sem")  
+![ccssyy](https://github.com/CcSsYy77/ccssyy/blob/main/ccssyy(1).png "ccssyy")
 
 #include <stdio.h>  
 #include <pthread.h>  
